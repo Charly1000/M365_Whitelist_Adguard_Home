@@ -219,3 +219,5 @@
 @@|smtp.office365.com^$important
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
+@@|cloudcheckenabler.azurewebsites.net^$important
+@@|msftconnecttest.com^$important
