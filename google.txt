@@ -1,0 +1,7 @@
+@@||google.com^$important
+@@||accounts.youtube.com^$important
+@@||accounts.google.*^$important
+@@||ssl.gstatic.com^$important
+@@||ssl.google-analytics.com^$important
+@@||googleusercontent.com^$important
+@@||akamaihd.net^$important

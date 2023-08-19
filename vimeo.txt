@@ -1,0 +1,6 @@
+@@||vimeo.com^$important
+@@||akamaihd.net^$important
+@@||sb.scorecardresearch.com^$important
+@@||vimeocdn.com^$important
+@@||js-agent.newrelic.com^$important
+@@||bam.nr-data.net^$important
