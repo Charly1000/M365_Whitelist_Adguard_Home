@@ -9,4 +9,5 @@
 @@||v.whatsapp.net^$important
 @@||dit.whatsapp.net^$important
 @@||web.whatsapp.net^$important
+@@||web.whatsapp.com^$important
 @@||fna.whatsapp.net^$important
