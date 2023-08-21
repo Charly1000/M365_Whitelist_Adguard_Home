@@ -8,3 +8,5 @@
 @@||static.whatsapp.net^$important
 @@||v.whatsapp.net^$important
 @@||dit.whatsapp.net^$important
+@@||web.whatsapp.net^$important
+@@||fna.whatsapp.net^$important
