@@ -11,3 +11,8 @@
 ### and
 
 #### https://learn.microsoft.com/en-us/windows/privacy/manage-windows-11-endpoints
+
+
+### and
+
+#### https://learn.microsoft.com/en-us/azure/azure-monitor/app/ip-addresses
