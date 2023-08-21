@@ -1,5 +1,4 @@
 @@||youtube.com^$important
-@@||doubleclick.net^$important
 @@||googlesyndication.com^$important
 @@||googlevideo.com^$important
 @@||ytimg.com^$important
