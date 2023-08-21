@@ -2,9 +2,9 @@
 @@||g.whatsapp.net^$important
 @@||graph.facebook.com^$important
 @@||graph.whatsapp.com^$important
-@@||media-.*.cdn.whatsapp.net^$important
 @@||media..*.fna.whatsapp.net^$important
 @@||mmg.whatsapp.net^$important
 @@||pps.whatsapp.net^$important
 @@||static.whatsapp.net^$important
 @@||v.whatsapp.net^$important
+@@||dit.whatsapp.net^$important
