@@ -1,0 +1,5 @@
+@@|tiktokv.com^$important
+@@|tiktok.com^$important
+@@||tiktokcdn.com^$important
+@@|tiktok.org^$important
+@@||tiktokcdn-com.akamaized.net^$important
