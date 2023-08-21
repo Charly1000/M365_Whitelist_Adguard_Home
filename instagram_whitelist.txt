@@ -1,5 +1,5 @@
 @@||instagram.com^$important
 @@||d36xtkk24g8jdx.cloudfront.net^$important
-@@||www.facebook.com^$important
+@@|www.facebook.com^$important
 @@||akamaihd.net^$important
 @@||cdninstagram.com^$important
