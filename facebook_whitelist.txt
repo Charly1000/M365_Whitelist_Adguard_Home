@@ -1,11 +1,12 @@
+# Facebook
+@@||scontent-fra3-1.xx.fbcdn.net^$important
+@@|static.xx.fbcdn.net^$important
+@@|de-de.facebook.com^$important
 @@|facebook.com^$important
 @@|www.facebook.com^$important
-# @@||fbcdn.net^$important
 @@|facebook.net^$important
-# @@||akamaihd.net^$important
 @@|fbcdn.net^$important
 @@|connect.facebook.net^$important
-# Facebook
 @@|creative.ak.fbcdn.net^$important
 @@|external-lhr0-1.xx.fbcdn.net^$important
 @@|external-lhr1-1.xx.fbcdn.net^$important
@@ -27,3 +28,5 @@
 @@|mqtt.c10r.facebook.com^$important
 @@|portal.fb.com^$important
 @@|star.c10r.facebook.com^$important
+
+
