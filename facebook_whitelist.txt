@@ -3,7 +3,8 @@
 # @@||fbcdn.net^$important
 @@|facebook.net^$important
 # @@||akamaihd.net^$important
-
+@@|fbcdn.net^$important
+@@|connect.facebook.net^$important
 # Facebook
 @@|creative.ak.fbcdn.net^$important
 @@|external-lhr0-1.xx.fbcdn.net^$important
