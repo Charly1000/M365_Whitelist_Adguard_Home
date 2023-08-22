@@ -1,0 +1,17 @@
+@@|baidu.com^$important
+@@|taobao.com^$important
+@@|xiaomi.cn^$important
+@@|xiaomi.com^$important
+@@|www.baidu.com^$important
+@@|www.taobao.com^$important
+@@|www.xiaomi.cn^$important
+@@|www.xiaomi.com^$important
+@@|api.miwifi.com^$important
+@@|miwifi.com^$important
+@@|log.miwifi.com^$important
+@@|s.miwifi.com^$important
+@@|app.miwifi.com^$important
+@@|stun.miwifi.com^$important
+@@|broker.miwifi.com^$important
+@@|bbs.xiaomi.cn^$important
+@@|bbs.xiaomi.com^$important
