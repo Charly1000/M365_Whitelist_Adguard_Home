@@ -18,3 +18,15 @@
 @@|geo3.ggpht.com^$important
 @@|googlehosted.l.googleusercontent.com^$important
 @@|redirector.gvt1.com^$important
+
+@@|gcdn.2mdn.net^$important
+@@|r9---sn-n4v7kn76.c.2mdn.net^$important
+@@|gew1-accesspoint-b-zzfg.ap.spotify.com^$important
+@@|ns1.p23.dynect.net^$important
+@@|ns3.p23.dynect.net^$important
+@@|ns4.p23.dynect.net^$important
+@@|dns1.p07.nsone.net^$important
+@@|dns2.p07.nsone.net^$important
+@@|dns3.p07.nsone.net^$important
+@@|dns4.p07.nsone.net^$important
+@@|audio-sp-fra2.pscdn.co^$important

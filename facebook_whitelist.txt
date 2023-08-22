@@ -1,4 +1,5 @@
 @@|facebook.com^$important
+@@|www.facebook.com^$important
 # @@||fbcdn.net^$important
 @@|facebook.net^$important
 # @@||akamaihd.net^$important
