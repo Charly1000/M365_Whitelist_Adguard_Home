@@ -1,4 +1,4 @@
-## M365 Whitelist URLs
+## M365 Whitelist URLs for Adguard Home
 
 
 ### content from
