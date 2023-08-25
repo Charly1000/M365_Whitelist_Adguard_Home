@@ -1,0 +1,4 @@
+# Tailscale
+@@|controlplane.tailscale.com^$important
+@@|pkgs.tailscale.com^$important
+@@|tailscale.com^$important

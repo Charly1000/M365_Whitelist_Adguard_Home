@@ -1,0 +1,2 @@
+# WireGuard
+@@|download.wireguard.com^$important
