@@ -15,3 +15,8 @@
 @@|broker.miwifi.com^$important
 @@|bbs.xiaomi.cn^$important
 @@|bbs.xiaomi.com^$important
+##
+@@||global.xiaomi.net^$important
+@@||sys.miui.com^$important
+@@||intl.xiaomi.com^$important
+@@||intl.miui.com^$important
