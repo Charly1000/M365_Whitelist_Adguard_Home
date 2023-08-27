@@ -2,6 +2,8 @@
 @@|d36xtkk24g8jdx.cloudfront.net^$important
 @@|www.facebook.com^$important
 @@||akamaihd.net^$important
-@@||cdninstagram.com^$important
+@@|cdninstagram.com^$important
 @@|instagram.fham3-1.fna.fbcdn.net^$important
 @@|instagram.ffra1-1.fna.fbcdn.net^$important
+@@|i-fallback.instagram.com^$important
+@@|i.instagram.com^$important
