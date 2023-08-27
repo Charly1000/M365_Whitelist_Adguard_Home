@@ -7,3 +7,5 @@
 @@|instagram.ffra1-1.fna.fbcdn.net^$important
 @@|i-fallback.instagram.com^$important
 @@|i.instagram.com^$important
+@@|m.instagram.com^$important
+@@|www.instagram.com^$important
