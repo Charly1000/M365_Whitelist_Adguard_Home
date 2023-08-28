@@ -343,6 +343,8 @@
 @@|instagram.frix7-1.fna.fbcdn.net^$important
 @@|scontent-lcy1-1.cdninstagram.com^$important
 @@|instagram.fhex5-1.fna.fbcdn.net^$important@@|*.mydns.jdownloader.org^$important
+@@||instagram.ftxl3-1.fna.fbcdn.net^$important
+@@||scontent.ftxl3-2.fna.fbcdn.net^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|api.jdownloader.org^$important
 @@|board.jdownloader.org^$important
