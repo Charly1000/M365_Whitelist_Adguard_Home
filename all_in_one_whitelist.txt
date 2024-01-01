@@ -31,7 +31,9 @@
 @@|time-ios.apple.com^$important
 @@|time-macos.apple.com^$important
 @@|time.apple.com^$important
-@@|vpp.itunes.apple.com^$important@@|zocalo.ap-northeast-1.amazonaws.com^$important
+@@|vpp.itunes.apple.com^$important
+@@|cstat.cdn-apple.com^$important
+@@|doh.dns.apple.com.v.aaplimg.com^$important@@|zocalo.ap-northeast-1.amazonaws.com^$important
 @@|zocalo.ap-southeast-2.amazonaws.com^$important
 @@|zocalo.eu-west-1.amazonaws.com^$important
 @@|zocalo.eu-central-1.amazonaws.com^$important
@@ -73,47 +75,21 @@
 @@|ns1.dropbox.com^$important
 @@|ns2.dropbox.com^$important
 @@|www.dropbox.com^$important# Facebook
-@@|scontent-fra3-1.xx.fbcdn.net^$important
-@@|static.xx.fbcdn.net^$important
+@@||fbcdn.net^$important
 @@|de-de.facebook.com^$important
 @@|facebook.com^$important
 @@|www.facebook.com^$important
 @@|facebook.net^$important
-@@|fbcdn.net^$important
 @@|connect.facebook.net^$important
-@@|creative.ak.fbcdn.net^$important
-@@|external-lhr0-1.xx.fbcdn.net^$important
-@@|external-lhr1-1.xx.fbcdn.net^$important
-@@|external-lhr10-1.xx.fbcdn.net^$important
-@@|external-lhr2-1.xx.fbcdn.net^$important
-@@|external-lhr3-1.xx.fbcdn.net^$important
-@@|external-lhr4-1.xx.fbcdn.net^$important
-@@|external-lhr5-1.xx.fbcdn.net^$important
-@@|external-lhr6-1.xx.fbcdn.net^$important
-@@|external-lhr7-1.xx.fbcdn.net^$important
-@@|external-lhr8-1.xx.fbcdn.net^$important
-@@|external-lhr9-1.xx.fbcdn.net^$important
 @@|fbcdn-creative-a.akamaihd.net^$important
-@@|scontent-lhr3-1.xx.fbcdn.net^$important
 @@|web.facebook.com^$important
 @@|chat-e2ee-mini.facebook.com^$important
 # @@|web-fallback.facebook.com^$important
-@@|scontent.ffra1-1.fna.fbcdn.net^$important
-@@|external.fdtm2-1.fna.fbcdn.net^$important
-@@|scontent.fdtm2-2.fna.fbcdn.net^$important
-@@|scontent.fham3-1.fna.fbcdn.net^$important
-@@|scontent-fra5-1.xx.fbcdn.net^$important
-@@|scontent-fra5-2.xx.fbcdn.net^$important
-@@|scontent-fra3-2.xx.fbcdn.net^$important
-@@|external.ftxl3-2.fna.fbcdn.net^$important
-@@|scontent.xx.fbcdn.net^$important
-@@|scontent-ber1-1.xx.fbcdn.net^$important
 @@|star.fallback.c10r.facebook.com^$important
 @@|gateway.facebook.com^$important
 @@|chat-e2ee.facebook.com^$important
-# @@|lookaside.facebook.com^$important
+@@|lookaside.facebook.com^$important
 @@|star-mini.c10r.facebook.com^$important
-# @@|scontent.xx.fbcdn.net^$important
 @@|rupload.facebook.com^$important
 @@|m.facebook.com^$important
 # Facebook Messenger
@@ -123,7 +99,23 @@
 @@|mqtt.c10r.facebook.com^$important
 @@|portal.fb.com^$important
 @@|star.c10r.facebook.com^$important
-@@|*.googlevideo.com^$important
+@@|b-graph.facebook.com^$important
+@@|z-p42-chat-e2ee-ig.facebook.com^$important# DHL App
+@@||dhl.de^$important
+@@||dpdhl.com^$important
+# Chip.de
+@@||www-chip-de.cdn.*^$important
+@@||sdk.privacy-center.org^$important
+# Adobe
+@@||cc-api-data.adobe.io^$important
+@@||assets.adobedtm.com^$important
+@@||stats.adobe.com^$important
+#Lidl Plus:
+@@||lidlplus.com^$important
+# Wireguard
+@@||www.wireguard.com^$important
+# Netflix
+@@||netflix.com^$important@@|*.googlevideo.com^$important
 @@|*.gvt1.com^$important
 @@|*.ytimg.com^$important
 @@|.l.google.com^$important
@@ -317,7 +309,7 @@
 # @@|d36xtkk24g8jdx.cloudfront.net^$important
 @@|www.facebook.com^$important
 @@||akamaihd.net^$important
-@@|cdninstagram.com^$important
+@@||cdninstagram.com^$important
 @@|i-fallback.instagram.com^$important
 @@|i.instagram.com^$important
 @@|m.instagram.com^$important
@@ -325,6 +317,7 @@
 @@|z-p42-instagram.c10r.instagram.com^$important
 @@|static.cdninstagram.com^$important
 @@|graphql.instagram.com^$important
+@@|graph.instagram.com^$important
 @@|reg-e2ee.instagram.com^$important
 @@|scontent-man2-1.cdninstagram.com^$important
 @@|gateway.instagram.com^$important
@@ -334,17 +327,10 @@
 @@|dgw.c10r.facebook.com^$important
 @@|scontent.cdninstagram.com^$important
 @@|scontent-cdg4-1.cdninstagram.com^$important
-@@|instagram.fham3-1.fna.fbcdn.net^$important
-@@|instagram.ffra1-1.fna.fbcdn.net^$important
-@@|scontent-fra3-1.cdninstagram.com^$important
-@@|scontent-fra3-2.cdninstagram.com^$important
-@@|scontent-fra5-1.cdninstagram.com^$important
-@@|scontent-fra5-2.cdninstagram.com^$important
-@@|instagram.frix7-1.fna.fbcdn.net^$important
-@@|scontent-lcy1-1.cdninstagram.com^$important
-@@|instagram.fhex5-1.fna.fbcdn.net^$important@@|*.mydns.jdownloader.org^$important
-@@||instagram.ftxl3-1.fna.fbcdn.net^$important
-@@||scontent.ftxl3-2.fna.fbcdn.net^$important
+@@|l.instagram.com^$important
+#
+@@|translate.google.com^$important
+@@|*.mydns.jdownloader.org^$important
 @@|192-168-1-103.mydns.jdownloader.org^$important
 @@|api.jdownloader.org^$important
 @@|board.jdownloader.org^$important
@@ -757,7 +743,9 @@
 @@|t.paypal.com^$important
 @@|www.paypal.com^$important
 @@|www.paypalobjects.com^$important
-@@|www.paypalobjects.comimages^$important@@|apresolve.spotify.com^$important
+@@|www.paypalobjects.comimages^$important#Pinterest:
+@@||s.pinimg.com^$important
+@@|pinterest.com^$important@@|apresolve.spotify.com^$important
 @@|api-spotify.com^$important
 @@|api-partner.spotify.com^$important
 @@|api-tv.spotify.com^$important
@@ -790,9 +778,8 @@
 @@|dns4.p07.nsone.net^$important
 @@|audio-sp-fra2.pscdn.co^$important
 # Tailscale
-@@|controlplane.tailscale.com^$important
-@@|pkgs.tailscale.com^$important
-@@|tailscale.com^$important@@|tiktokv.com^$important
+@@||tailscale.com^$important
+@@|tiktokv.com^$important
 @@|tiktok.com^$important
 @@||tiktokcdn.com^$important
 @@|tiktok.org^$important
@@ -816,6 +803,13 @@
 @@||web.whatsapp.net^$important
 @@||web.whatsapp.com^$important
 @@||fna.whatsapp.net^$important
+@@|www.whatsapp.com^$important
+# WhatsApp Communitys
+@@|faq.whatsapp.com^$important
+@@|scontent.whatsapp.net^$important
+@@||dn.ampproject.org^$important
+
+
 # WireGuard
 @@|download.wireguard.com^$important
 @@|baidu.com^$important
@@ -840,6 +834,7 @@
 @@||sys.miui.com^$important
 @@||intl.xiaomi.com^$important
 @@||intl.miui.com^$important
+@@||global.xiaomi.net^$important
 @@||youtube.com^$important
 @@||googlesyndication.com^$important
 @@||googlevideo.com^$important

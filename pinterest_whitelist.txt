@@ -1,0 +1,3 @@
+#Pinterest:
+@@||s.pinimg.com^$important
+@@|pinterest.com^$important

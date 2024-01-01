@@ -1,0 +1,14 @@
+# DHL App
+@@||dhl.de^$important
+@@||dpdhl.com^$important
+# Chip.de
+@@||www-chip-de.cdn.*^$important
+@@||sdk.privacy-center.org^$important
+# Adobe
+@@||cc-api-data.adobe.io^$important
+@@||assets.adobedtm.com^$important
+@@||stats.adobe.com^$important
+#Lidl Plus:
+@@||lidlplus.com^$important
+# Netflix
+@@||netflix.com^$important

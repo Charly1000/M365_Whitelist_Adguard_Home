@@ -1,2 +1,3 @@
 # WireGuard
 @@|download.wireguard.com^$important
+@@|www.wireguard.com^$important

@@ -2,7 +2,7 @@
 # @@|d36xtkk24g8jdx.cloudfront.net^$important
 @@|www.facebook.com^$important
 @@||akamaihd.net^$important
-@@|cdninstagram.com^$important
+@@||cdninstagram.com^$important
 @@|i-fallback.instagram.com^$important
 @@|i.instagram.com^$important
 @@|m.instagram.com^$important
@@ -10,6 +10,7 @@
 @@|z-p42-instagram.c10r.instagram.com^$important
 @@|static.cdninstagram.com^$important
 @@|graphql.instagram.com^$important
+@@|graph.instagram.com^$important
 @@|reg-e2ee.instagram.com^$important
 @@|scontent-man2-1.cdninstagram.com^$important
 @@|gateway.instagram.com^$important
@@ -19,14 +20,6 @@
 @@|dgw.c10r.facebook.com^$important
 @@|scontent.cdninstagram.com^$important
 @@|scontent-cdg4-1.cdninstagram.com^$important
-@@|instagram.fham3-1.fna.fbcdn.net^$important
-@@|instagram.ffra1-1.fna.fbcdn.net^$important
-@@|scontent-fra3-1.cdninstagram.com^$important
-@@|scontent-fra3-2.cdninstagram.com^$important
-@@|scontent-fra5-1.cdninstagram.com^$important
-@@|scontent-fra5-2.cdninstagram.com^$important
-@@|instagram.frix7-1.fna.fbcdn.net^$important
-@@|scontent-lcy1-1.cdninstagram.com^$important
-@@|instagram.fhex5-1.fna.fbcdn.net^$important
-@@|instagram.ftxl3-1.fna.fbcdn.net^$important
-@@|scontent.ftxl3-2.fna.fbcdn.net^$important
+@@|l.instagram.com^$important
+#
+@@|translate.google.com^$important

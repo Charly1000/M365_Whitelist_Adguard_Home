@@ -11,3 +11,10 @@
 @@||web.whatsapp.net^$important
 @@||web.whatsapp.com^$important
 @@||fna.whatsapp.net^$important
+@@|www.whatsapp.com^$important
+# WhatsApp Communitys
+@@|faq.whatsapp.com^$important
+@@|scontent.whatsapp.net^$important
+@@||dn.ampproject.org^$important
+
+

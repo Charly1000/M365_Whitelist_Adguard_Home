@@ -20,3 +20,4 @@
 @@||sys.miui.com^$important
 @@||intl.xiaomi.com^$important
 @@||intl.miui.com^$important
+@@||global.xiaomi.net^$important

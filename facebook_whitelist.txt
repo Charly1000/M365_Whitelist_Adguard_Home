@@ -1,45 +1,19 @@
 # Facebook
-@@|scontent-fra3-1.xx.fbcdn.net^$important
-@@|static.xx.fbcdn.net^$important
+@@||fbcdn.net^$important
 @@|de-de.facebook.com^$important
 @@|facebook.com^$important
 @@|www.facebook.com^$important
 @@|facebook.net^$important
-@@|fbcdn.net^$important
 @@|connect.facebook.net^$important
-@@|creative.ak.fbcdn.net^$important
-@@|external-lhr0-1.xx.fbcdn.net^$important
-@@|external-lhr1-1.xx.fbcdn.net^$important
-@@|external-lhr10-1.xx.fbcdn.net^$important
-@@|external-lhr2-1.xx.fbcdn.net^$important
-@@|external-lhr3-1.xx.fbcdn.net^$important
-@@|external-lhr4-1.xx.fbcdn.net^$important
-@@|external-lhr5-1.xx.fbcdn.net^$important
-@@|external-lhr6-1.xx.fbcdn.net^$important
-@@|external-lhr7-1.xx.fbcdn.net^$important
-@@|external-lhr8-1.xx.fbcdn.net^$important
-@@|external-lhr9-1.xx.fbcdn.net^$important
 @@|fbcdn-creative-a.akamaihd.net^$important
-@@|scontent-lhr3-1.xx.fbcdn.net^$important
 @@|web.facebook.com^$important
 @@|chat-e2ee-mini.facebook.com^$important
 # @@|web-fallback.facebook.com^$important
-@@|scontent.ffra1-1.fna.fbcdn.net^$important
-@@|external.fdtm2-1.fna.fbcdn.net^$important
-@@|scontent.fdtm2-2.fna.fbcdn.net^$important
-@@|scontent.fham3-1.fna.fbcdn.net^$important
-@@|scontent-fra5-1.xx.fbcdn.net^$important
-@@|scontent-fra5-2.xx.fbcdn.net^$important
-@@|scontent-fra3-2.xx.fbcdn.net^$important
-@@|external.ftxl3-2.fna.fbcdn.net^$important
-@@|scontent.xx.fbcdn.net^$important
-@@|scontent-ber1-1.xx.fbcdn.net^$important
 @@|star.fallback.c10r.facebook.com^$important
 @@|gateway.facebook.com^$important
 @@|chat-e2ee.facebook.com^$important
-# @@|lookaside.facebook.com^$important
+@@|lookaside.facebook.com^$important
 @@|star-mini.c10r.facebook.com^$important
-# @@|scontent.xx.fbcdn.net^$important
 @@|rupload.facebook.com^$important
 @@|m.facebook.com^$important
 # Facebook Messenger
@@ -49,3 +23,5 @@
 @@|mqtt.c10r.facebook.com^$important
 @@|portal.fb.com^$important
 @@|star.c10r.facebook.com^$important
+@@|b-graph.facebook.com^$important
+@@|z-p42-chat-e2ee-ig.facebook.com^$important

@@ -32,3 +32,6 @@
 @@|time-macos.apple.com^$important
 @@|time.apple.com^$important
 @@|vpp.itunes.apple.com^$important
+@@|cstat.cdn-apple.com^$important
+# maybe
+@@|doh.dns.apple.com.v.aaplimg.com^$important
