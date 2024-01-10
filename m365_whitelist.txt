@@ -376,3 +376,5 @@
 @@||akamaized.net^$important
 @@||edgekey.net^$important
 @@||edgesuite.net^$important
+@@||main.iam.ad.ext.azure.com^$important
+@@||management.azure.com^$important
