@@ -114,6 +114,9 @@
 @@||lidlplus.com^$important
 # Wireguard
 @@||www.wireguard.com^$important
+# ADcocktail:
+@@||www.adcocktail.com^$important
+@@||rtnl.bxcl.de^$important
 # Netflix
 @@||netflix.com^$important@@|*.googlevideo.com^$important
 @@|*.gvt1.com^$important
@@ -566,6 +569,10 @@
 @@|outlook.office365.com^$important
 @@||cloudcheckenabler.azurewebsites.net^$important
 @@||msftconnecttest.com^$important^$important
+@@||main.iam.ad.ext.azure.com^$important
+@@||management.azure.com^$important
+# Microsoft Learn Mails:
+@@||microsoftemail.com^$important
 # Windwos Update / WSUS #
 @@||delivery.mp.microsoft.com^$important
 @@||download.microsoft.com^$important
