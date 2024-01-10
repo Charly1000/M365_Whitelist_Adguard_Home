@@ -378,3 +378,5 @@
 @@||edgesuite.net^$important
 @@||main.iam.ad.ext.azure.com^$important
 @@||management.azure.com^$important
+# Microsoft Learn Mails:
+@@||microsoftemail.com^$important
